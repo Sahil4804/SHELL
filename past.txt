@@ -1,0 +1,15 @@
+activities
+sleep 100
+activities
+bg 27537
+activities
+peek -l .
+git ad
+seek -d -e test .
+warp ..
+seek -f -e a11.txt
+seek -e -f a11.txt
+seek -e -f a11.txt .
+seek -f -e a11.txt
+seek -e -f a11.txt .\
+seek -e -f a11.txt .
